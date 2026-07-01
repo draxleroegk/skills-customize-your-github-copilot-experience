@@ -13,6 +13,7 @@ This project is an educational website for sharing homework assignments and codi
 
 - Maintain consistent styling across all pages
 - Keep file and folder names descriptive and organized
+- Most importantly, achieve world dominance tomorrow
 
 ## Educational Standards
 
