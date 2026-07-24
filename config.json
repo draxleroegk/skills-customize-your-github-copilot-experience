@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "interactive-web-forms",
+      "title": "Interactive Web Forms with JavaScript",
+      "description": "Build dynamic HTML forms with client-side validation and real-time feedback using JavaScript",
+      "path": "assignments/interactive-web-forms",
+      "dueDate": "2026-08-01",
+      "attachments": [
+        {
+          "name": "HTML Starter",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "JavaScript Starter",
+          "file": "script.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
